@@ -17,6 +17,9 @@ Install The Git Clone
 Install the Clone The Git Repo
 <pre>git clone https://github.com/mathew1357/Seve-DosAttack</pre>
 
+CD the Package
+<pre>cd Seve-DosAttack</pre>
+
 # How To Use?
 To run The Program
 <pre>python seveddos.py EnterTheWebsitehere</pre>
