@@ -19,4 +19,7 @@ Install the Clone The Repo
 
 # How To Use?
 To run The Program
-<pre>python seveddos.py <yourWebsite to attack></pre>
+<pre>python seveddos.py EnterTheWebsitehere</pre>
+
+Example
+<pre>python seveddos.py example.com</pre>
