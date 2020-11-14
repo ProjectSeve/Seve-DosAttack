@@ -14,7 +14,7 @@ Install Python
 Install The Git Clone
 <pre>sudo apt-get install git</pre>
 
-Install the Clone The Repo
+Install the Clone The Git Repo
 <pre>git clone https://github.com/mathew1357/Seve-DosAttack</pre>
 
 # How To Use?
